@@ -11,3 +11,11 @@ body{
     background-size: contain;
     background-color: lightgrey;
 }
+
+#ingredient{
+    border: 2px solid lightcobal;
+}
+
+th,td{
+    border: 1px solid lightcobal;
+}
